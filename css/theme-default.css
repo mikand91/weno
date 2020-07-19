@@ -2438,15 +2438,15 @@ a.read-more.primary:hover {
 	transition: all 0.3s ease-out 0s;
 }
 
-.clients-list li a img {
-	width: 100%;
-}
 
-.clients-list li a,
-.clients-list li img {
+.clients-list li a {
 	display: block;
 	margin: 0 auto;
-	width: 75%;
+	width: 12vw;
+	height: 7vw;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .clients-list li::before,
