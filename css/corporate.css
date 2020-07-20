@@ -3599,6 +3599,7 @@ box-shadow: 0px 0px 11px 6px rgba(0,0,0,0.07);*/
 .ce-feature-box-52 {
 	width: 100%;
 	float: left;
+
 }
 
 .ce-feature-box-52 .text-box {
@@ -3608,6 +3609,7 @@ box-shadow: 0px 0px 11px 6px rgba(0,0,0,0.07);*/
 	float: left;
 	overflow: hidden;
 	background-color: #101010;
+	height: 350px;
 }
 
 .ce-feature-box-52 .text-box .icon {

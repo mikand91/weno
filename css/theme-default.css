@@ -3501,7 +3501,7 @@ a.topbar-btn.active {
 }
 
 .footer-quick-links-5 li a {
-	color: #000;
+	color: #fff;
 }
 
 .footer-quick-links-5 li a:hover {
@@ -3760,6 +3760,11 @@ ul.footer-flickr {
  ------------------------------ */
 .section-primary {
 	background-color: #fce206;
+}
+
+.section-footer {
+	background-color: #000;
+	color: #fff;
 }
 
 /* section copyright
