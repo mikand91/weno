@@ -114,6 +114,7 @@ option {
 .header-section .mod-menu {
   position: relative;
   z-index: 999;
+
 }
 
 /* line 43, ../sass/screen.scss */
@@ -131,6 +132,7 @@ option {
 .header-section ul li {
   text-transform: uppercase;
   position: relative;
+  font-weight: 700;
 }
 
 /* line 49, ../sass/screen.scss */
@@ -301,6 +303,7 @@ option {
   float: left;
   border: none;
   width: 25%;
+  font-weight: 300;
 }
 
 .header-section ul li.mega-menu.align-left>ul>li {
@@ -325,7 +328,7 @@ option {
 .header-section ul li.mega-menu>ul>li>a {
   text-transform: uppercase;
   padding-bottom: 10px;
-  font-weight: 600;
+  font-weight: 300;
 }
 
 /* line 160, ../sass/screen.scss */
@@ -346,6 +349,7 @@ option {
 .header-section ul li.mega-menu>ul>li ul li a {
   padding-top: 8px;
   padding-bottom: 8px;
+  font-weight: 300;
 }
 
 .header-section ul li.mega-menu>ul>li ul li a:hover {
@@ -574,6 +578,8 @@ option {
   position: relative;
   background-color: transparent;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: rgba(0, 0, 0, 0.2);
+
 }
 
 .header-section.style1.noborder {
