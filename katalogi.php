@@ -90,26 +90,26 @@
         <section id="tags-section">
             <div class="tags">
                 <div class="list">
-                    <div class="item" data-catalog-type="1"><a href="#">Medieval music</a></div>
-                    <div class="item" data-catalog-type="2"><a href="#">Renaissance music</a></div>
-                    <div class="item" data-catalog-type="3"><a href="#">Baroque music</a></div>
-                    <div class="item" data-catalog-type="4"><a href="#">Classical</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Romantic</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">20th-century music</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Opera</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Folk</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Country music</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Rock</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Pop</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Rhythm and blues</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Electronic music</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Jazz</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Reggae</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Calypso</a></div>
-                    <div class="item" data-catalog-type="1"><a href="#">Hip hop</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Medieval music</a></div>
+                    <div class="item" data-catalog-type="2"><a href="javascript:void();" onclick="scroll_to('#catalog');">Renaissance music</a></div>
+                    <div class="item" data-catalog-type="3"><a href="javascript:void();" onclick="scroll_to('#catalog');">Baroque music</a></div>
+                    <div class="item" data-catalog-type="4"><a href="javascript:void();" onclick="scroll_to('#catalog');">Classical</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Romantic</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">20th-century music</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Opera</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Folk</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Country music</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Rock</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Pop</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Rhythm and blues</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Electronic music</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Jazz</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Reggae</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Calypso</a></div>
+                    <div class="item" data-catalog-type="1"><a href="javascript:void();" onclick="scroll_to('#catalog');">Hip hop</a></div>
                 </div>
             </div>
-            <div class="catalogs">
+            <div id="catalog" class="catalogs">
 
             </div>
         </section>
@@ -173,11 +173,12 @@
 <script src="js/owl-carousel/custom.js"></script>
 <script src="js/owl-carousel/owl.carousel.js"></script>
 <script src="js/owl-carousel/custom.js"></script>
-<script src="js/parallax/jquery.parallax-1.1.3.js"></script>
 <script src="js/parallax/parallax-background.min.js"></script>
 <script src="js/animations/js/sections.js"></script>
 <script src="js/megamenu/js/menu-images.js"></script>
 <script src="js/tags/tags.js"></script>
+<script src="js/tags/scroll.js"></script>
+
 <script>
     $(window).load(function () {
         setTimeout(function () {

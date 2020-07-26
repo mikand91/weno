@@ -715,22 +715,22 @@
                             <div class="item">
                                 <ul class="clients-list grid-cols-5 hover-7 noborder">
                                     <li><a href="#"
-                                           style="background-image:url(../images/asrobki/stainless-steel-screws-4607197_1920.jpg)"></a></li>
-                                    <li><a href="#" style="background-image:url(../images/asrobki/industry-798944_1920.jpg)"></a></li>
-                                    <li><a href="#" style="background-image:url(../images/asrobki/the-screws-736747_1920.jpg)"></a></li>
-                                    <li><a href="#" style="background-image:url(../images/asrobki/screws-2428946_1920.jpg)"></a></li>
-                                    <li><a href="#" style="background-image:url(../images/asrobki/nuts-1298689_1920.jpg)"></a></li>
+                                           style="background-image:url(images/asrobki/stainless-steel-screws-4607197_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/industry-798944_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/the-screws-736747_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/screws-2428946_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/nuts-1298689_1920.jpg)"></a></li>
                                 </ul>
                             </div>
                             <!--end carousel item-->
 
                             <div class="item">
                                 <ul class="clients-list grid-cols-5 hover-7 noborder">
-                                    <li><a href="#" style="background-image:url(../images/asrobki/drill-933656_1920.jpg)"></a></li>
-                                    <li><a href="#" style="background-image:url(../images/asrobki/screw-1924173_1920.jpg)"></a></li>
-                                    <li><a href="#" style="background-image:url(../images/asrobki/motorcycle-2651286_1920.jpg)"></a></li>
-                                    <li><a href="#" style="background-image:url(../images/asrobki/gears-1236578_1920.jpg)"></a></li>
-                                    <li><a href="#" style="background-image:url(../images/asrobki/drill-bit-set-444485_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/drill-933656_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/screw-1924173_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/motorcycle-2651286_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/gears-1236578_1920.jpg)"></a></li>
+                                    <li><a href="#" style="background-image:url(images/asrobki/drill-bit-set-444485_1920.jpg)"></a></li>
                                 </ul>
                             </div>
                             <!--end carousel item-->

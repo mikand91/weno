@@ -1,78 +1,81 @@
-<section class="sec-padding">
+<section class="sec-padding catalog-output">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-                <div class="sec-title-container text-center">
+                <div class="sec-title-container text-center catalog-title">
                     <h5 class="font-weight-4 less-mar-1 line-height-4 text-primary montserrat">catalog 4</h5>
-                    <!--                    <h2 class="font-weight-6 less-mar-1 montserrat line-height-5">Our Creative Team gives You best <br/>-->
-                    <!--                        Service and excellent Support</h2>-->
+<!--                    <h2 class="font-weight-6 less-mar-1 montserrat line-height-5">Our Creative Team gives You best <br/>-->
+<!--                        Service and excellent Support</h2>-->
                 </div>
             </div>
             <div class="clearfix"></div>
             <!--end title-->
-            <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-                <div class="ce-feature-box-51 dark">
+            <div class="col-md-6 col-sm-12 margin-bottom">
+                <div class="ce-feature-box-51">
                     <div class="main-box">
-                        <div class="img-box">
+                        <div class="img-box" style="background-image:url(images/asrobki/gears-1236578_1920.jpg)">
                             <div class="overlay">
                                 <p class="small-text text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. </p>
                                 <br/>
-                                <ul class="sc-icons">
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://www.facebook.com/codelayers"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
                             </div>
-                            <img src="http://via.placeholder.com/550x600" alt="" class="img-responsive"/> </div>
+                        </div>
                         <div class="text-box text-center">
-                            <h5 class="nopadding title">Matthew</h5>
-                            <p class="subtext">Founder and CEO</p>
+                            <h5 class="nopadding title">Catalog Title</h5>
+                            <p class="subtext">Subtitle</p>
                         </div>
                     </div>
                 </div>
                 <!--end feature box-->
             </div>
             <!--end item-->
-            <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-                <div class="ce-feature-box-51 dark">
+            <div class="col-md-6 col-sm-12 margin-bottom">
+                <div class="ce-feature-box-51">
                     <div class="main-box">
-                        <div class="img-box">
+                        <div class="img-box" style="background-image:url(images/asrobki/stainless-steel-screws-4607197_1920.jpg)">
                             <div class="overlay">
                                 <p class="small-text text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. </p>
                                 <br/>
-                                <ul class="sc-icons">
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://www.facebook.com/codelayers"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
                             </div>
-                            <img src="http://via.placeholder.com/550x600" alt="" class="img-responsive"/> </div>
+                            </div>
                         <div class="text-box text-center">
-                            <h5 class="nopadding title">Benjamin</h5>
-                            <p class="subtext">Marketing</p>
+                        <h5 class="nopadding title">Catalog Title</h5>
+                            <p class="subtext">Subtitle</p>
                         </div>
                     </div>
                 </div>
                 <!--end feature box-->
             </div>
             <!--end item-->
-            <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-                <div class="ce-feature-box-51 dark">
+            <div class="col-md-6 col-sm-12 margin-bottom">
+                <div class="ce-feature-box-51">
                     <div class="main-box">
-                        <div class="img-box">
+                        <div class="img-box" style="background-image:url(images/asrobki/drill-933656_1920.jpg)">
                             <div class="overlay">
                                 <p class="small-text text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. </p>
                                 <br/>
-                                <ul class="sc-icons">
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://www.facebook.com/codelayers"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
                             </div>
-                            <img src="http://via.placeholder.com/550x600" alt="" class="img-responsive"/> </div>
+                             </div>
                         <div class="text-box text-center">
-                            <h5 class="nopadding title">Jennifer</h5>
-                            <p class="subtext">Support</p>
+                        <h5 class="nopadding title">Catalog Title</h5>
+                            <p class="subtext">Subtitle</p>
+                        </div>
+                    </div>
+                </div>
+                <!--end feature box-->
+            </div>
+            <!--end item-->
+            <div class="col-md-6 col-sm-12 margin-bottom">
+                <div class="ce-feature-box-51">
+                    <div class="main-box">
+                        <div class="img-box" style="background-image:url(images/asrobki/industry-798944_1920.jpg)">
+                            <div class="overlay">
+                                <p class="small-text text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. </p>
+                                <br/>
+                            </div>
+                             </div>
+                        <div class="text-box text-center">
+                        <h5 class="nopadding title">Catalog Title</h5>
+                            <p class="subtext">Subtitle</p>
                         </div>
                     </div>
                 </div>

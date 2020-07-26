@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-3 col-sm-12 colmargin clearfix margin-bottom">
                 <div class="fo-map">
-                    <div class="footer-logo" style="background-image: url(../images/logo/logo-dark.png)"> </div>
+                    <div class="footer-logo" style="background-image: url(images/logo/main-logo.png)"> </div>
                     <p class="text-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo.
                         Praesent mattis commodo </p>
                     <p class="text-white">consectetuer adipiscing elit Suspendisse et justo Praesent mattis commodo.</p>

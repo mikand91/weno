@@ -3,8 +3,8 @@
         <div class="container">
             <div class="mod-menu">
                 <div class="row">
-                    <div class="col-sm-2"> <a href="index.html" title="" class="logo style-2 mar-4"
-                                              style="background-image: url(images/logo/logo.png)"> </a> </div>
+                    <div class="col-sm-2"> <a href="index.php" title="" class="logo style-2 mar-4"
+                                              style="background-image: url(images/logo/main-logo.png)"> </a> </div>
                     <div class="col-sm-10">
                         <div class="main-nav">
                             <ul class="nav navbar-nav top-nav">
@@ -15,7 +15,7 @@
                             </ul>
                             <div id="menu" class="collapse">
                                 <ul class="nav navbar-nav">
-                                    <li class="right active"> <a href="/">Strona Główna</a> <span class="arrow"></span>
+                                    <li class="right"> <a href="index.php">Strona Główna</a> <span class="arrow"></span>
                                     </li>
                                     <li> <a href="page-about3.php">O Nas</a> <span class="arrow"></span>
                                     <li> <a href="katalogi.php">Katalogi</a> <span class="arrow"></span>

@@ -3450,6 +3450,7 @@ box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.9);*/
 .ce-feature-box-51 {
 	width: 100%;
 	float: left;
+	margin-bottom: 20px;
 	transition: all 0.3s ease-out 0s;
 	-webkit-box-shadow: 0 1px 21px rgba(0, 0, 0, .12);
 	-moz-box-shadow: 0 1px 21px rgba(0, 0, 0, .12);
@@ -3457,6 +3458,7 @@ box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.9);*/
 	/*-webkit-box-shadow: 0px 0px 11px 6px rgba(0,0,0,0.07);
 -moz-box-shadow: 0px 0px 11px 6px rgba(0,0,0,0.07);
 box-shadow: 0px 0px 11px 6px rgba(0,0,0,0.07);*/
+	cursor: pointer;
 }
 
 .ce-feature-box-51 .main-box {
@@ -3471,11 +3473,15 @@ box-shadow: 0px 0px 11px 6px rgba(0,0,0,0.07);*/
 .ce-feature-box-51 .main-box .img-box {
 	position: relative;
 	width: 100%;
+	height: 200px;
 	padding: 0px;
 	float: left;
 	border-bottom: 1px solid #f2f2f2;
-	background-color: #fff;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
+
 
 .ce-feature-box-51 .main-box .img-box .overlay {
 	position: absolute;

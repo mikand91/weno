@@ -2930,6 +2930,10 @@ a.topbar-btn.active {
 	padding-bottom: 120px;
 }
 
+.catalog-title {
+	padding-bottom: 60px;
+}
+
 .sec-title-container.less-padding-1 {
 	padding-bottom: 60px;
 }
@@ -3910,6 +3914,10 @@ ul.footer-flickr {
  ------------------------------ */
 .sec-padding {
 	padding: 150px 0 150px 0;
+}
+
+.catalog-output {
+	padding: 50px 0 50px 0;
 }
 
 .sec-padding-2 {
